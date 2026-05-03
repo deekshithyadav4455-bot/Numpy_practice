@@ -12,4 +12,4 @@ This repository contains my practice notebooks for NumPy.
 - Google Colab
 
 ## Purpose
-To improve my understanding of NumPy for data analysis.
+To improve my understanding of NumPy for Machine Learning .
