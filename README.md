@@ -1,11 +1,11 @@
-# NumPy Practice
+# NumPy Practice part ----> 1
 
 This repository contains my practice notebooks for NumPy.
 
 ## Topics Covered
 - Creating arrays
 - Array operations
-- Indexing and slicing
+
 
 ## Tools Used
 - Python
